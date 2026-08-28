@@ -30,6 +30,8 @@ gem "jekyll-theme-hydejack", "~> 9.1"
 #    For details, see <https://github.com/kramdown/math-katex#documentation>
 #
 
+gem "kramdown-math-katex"
+
 # Required for `jekyll serve` in Ruby 3
 gem "webrick"
 
